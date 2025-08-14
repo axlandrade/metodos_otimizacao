@@ -2,7 +2,7 @@
 # 2ª AVALIAÇÃO PRÁTICA DE MÉTODOS DE OTIMIZAÇÃO (VERSÃO COESA - OOP)
 # MESTRADO EM MODELAGEM MATEMÁTICA E COMPUTACIONAL - UFRRJ
 #
-# Aluno: [Seu Nome Aqui]
+# Aluno: Axl Andrade
 #
 # Este script foi refatorado para uma estrutura orientada a objetos,
 # melhorando a coesão, organização e reusabilidade do código.
